@@ -10,7 +10,7 @@ Hello, everyone!
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![Mac OS](https://img.shields.io/badge/MacOS%20Bigsur%2011.6-a15522?style=flat-square&logo=MacOS&Color=ffffff)](https://support.apple.com/zh-cn/macos/)
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
-[![PVE 7.0-13](https://img.shields.io/badge/Proxmox%20VE-f12354?style=flat-square&logo=proxmox&logoColor=ffffff)](https://pve.proxmox.com/wiki/Main_Page/)
+[![PVE 7.0-13](https://img.shields.io/badge/Proxmox%20VE-f12354?style=flat-square&logo=proxmox&logoColor=ffffff)](https://pve.proxmox.com/wiki/Main_Page)
 [![DSM7](https://img.shields.io/badge/DSM%207.0.1-b54bbf?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.cn/zh-cn/DSM70/)
 [![iOS 14](https://img.shields.io/badge/iOS%2014-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
