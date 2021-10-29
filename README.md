@@ -14,7 +14,7 @@ Hello, everyone!
 [![DSM7](https://img.shields.io/badge/DSM%207.0.1-b54bbf?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.cn/zh-cn/DSM70/)
 [![iOS 14](https://img.shields.io/badge/iOS%2014-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
-[![Android 12](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://developer.android.google.cn/about/versions/12/)
+[![Android 12](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 ## 📱 Devices in use
 [![Apple iPhone12](https://img.shields.io/badge/Apple%20iPhone%2012-fd5355?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-12/key-features/)
