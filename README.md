@@ -20,3 +20,7 @@ Hello, everyone!
 [![Apple iPhone13](https://img.shields.io/badge/Apple%20iPhone%2013-fd5355?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-13/)
 
 [![BlackberryRedmi](https://img.shields.io/badge/Redmi%20K60-adse58?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/redmi-k60)
+
+
+<h4 align="left">Number of visitors :eyes:</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/xiangfeidexiaohuo/count.svg" alt="xiangfeidexiaohuo :: Visitor's Count" /></p>
