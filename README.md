@@ -5,12 +5,12 @@ Hello, everyone!
 
 [![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=xiangfeidexiaohuo&show_icons=true&theme=onedark)](https://github.com/xiangfeidexiaohuo)
 
-## 💻 Working environment
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11) [![Mac OS](https://img.shields.io/badge/MacOS%20Sonoma%20-f45242?style=flat-square&logo=MacOS&Color=ffffff)](https://support.apple.com/zh-cn/macos/) [![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/jammy/) [![iOS](https://img.shields.io/badge/16-f13232?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com.cn/ios/ios-17/) [![Android 14](https://img.shields.io/badge/Android%2014-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/intl/zh-CN_cn/android-14/)
-
-## 📱 Devices in use
-[![Apple iPhone13](https://img.shields.io/badge/Apple%20iPhone%2013-fd5355?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-13/) [![BlackberryRedmi](https://img.shields.io/badge/Redmi%20K60-adse58?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.com/redmi-k60)
-
+<!-- snake contribution -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <h4 align="left">Number of visitors :eyes:</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/xiangfeidexiaohuo/count.svg" alt="xiangfeidexiaohuo :: Visitor's Count" /></p>
