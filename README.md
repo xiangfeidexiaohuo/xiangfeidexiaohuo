@@ -12,5 +12,4 @@ Hello, everyone!
     <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<h4 align="left">Number of visitors :eyes:</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/xiangfeidexiaohuo/count.svg" alt="xiangfeidexiaohuo :: Visitor's Count" /></p>
+
