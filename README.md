@@ -1,9 +1,6 @@
 Hello, everyone!
 
 ## 👋 Hi there
- * An ordinary person who has escaped the low-level taste!
-
-[![Stalker's github stats](https://github-readme-stats.vercel.app/api?username=xiangfeidexiaohuo&show_icons=true&theme=onedark)](https://github.com/xiangfeidexiaohuo)
 
 <!-- snake contribution -->
 <picture>
